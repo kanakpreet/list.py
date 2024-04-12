@@ -1,0 +1,8 @@
+list2 = [10,30,60]
+list3 = [10,77,30,66,60,89,99]
+list4 = ['one ', 'two','three']
+list5 = ['honey', 25 , [50,100], [150,90] , {"john", "david"}]
+list6 = [100, "asif", 17.765]
+len(list6)
+print(list6)
+
